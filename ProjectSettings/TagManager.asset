@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Enemy
+  - Rooms
+  - Wall
+  - EnemyProjectile
+  - manaUI
+  - Sword
+  - BossBody
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - outlineobjects
+  - Water
+  - UI
+  - enemies
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: suelo
+    uniqueID: 1683068311
+    locked: 0
+  - name: personajes
+    uniqueID: 428530841
+    locked: 0
+  - name: efectos
+    uniqueID: 3115747701
+    locked: 0
+  - name: ui_bot
+    uniqueID: 2214901195
+    locked: 0
+  - name: ui
+    uniqueID: 3847842711
+    locked: 0
+  - name: ui_top
+    uniqueID: 2463971809
+    locked: 0
